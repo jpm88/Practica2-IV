@@ -58,3 +58,28 @@ Para que se apliquen los cambios tenemos que reiniciar apache con el siguiente c
 
 > /etc/init.d/apache2 restart
 
+Ahora tenemos que añadir la aplicación web, en este caso se ha usado una versión simplificada de la
+aplicación web utilizada en la Práctica 1, para añadirla tenemos que copiarla al directorio /var/www de
+la máquina quantal con el siguiente comando:
+
+> sudo cp -r web/* /home/jaulas/quantal/var/www
+
+Por último reiniciamos otra vez apache.
+
+En la siguiente imagen se muestra el paso de la copia de los archivos a /var/www y el reinicio de apache:
+
+(imagen)
+
+Una vez hecho todo esto escribimos en el navegador localhost y nos saldrá la aplicación web:
+
+(imagen)
+
+
+### Repositorio
+
+https://github.com/jpm88/Practica2-IV
+
+### Bibliografía
+
+http://jj.github.io/IV/documentos/temas/Tecnicas_de_virtualizacion
+http://jj.github.io/IV/documentos/practicas/2.Jaula
