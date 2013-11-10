@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="es">
+<head>
+   <meta charset="utf­8">
+   <title>MONDO DIFFICILE</title>
+   <link rel="stylesheet" type="text/css" href="estilo.css" />
+</head>
+<body>
+	<a href="http://www.amazon.com"> 
+  		<img src = "img/amazon.jpg" alt = "Amazon"/> 
+	</a>
+<header>
+	<h1>MONDO DIFFICILE</h1>
+	<h2>Secciones</h2>
+	<nav id="menu">
+	<ul>
+		<li><a href="index.html" id="color1">Portada</a></li>
+		<li><a href="nacional.html" id="color2">Nacional</a></li>
+		<li><a href="internacional.html" id="color3">Internacional</a></li>
+		<li><a href="economia.html" id="color4">Econom&iacute;a</a></li>
+		<li><a href="deportes.html" id="color5">Deportes</a></li>
+		<li><a href="tecnologia.html" id="color6">Tecnolog&iacute;a</a></li>
+	</ul>
+	</nav>
+
+</header>
+
+<table id="tabla">
+   <tbody>
+      <tr>
+         <td colspan="2" id="noticia1"><h3>La D&eacute;cima tendr&aacute; que esperar</h3>
+		<p>Dos goles de Benzema y Ramos en los últimos diez minutos dejaron al Madrid al borde la final de la Champions por tercer año consecutivo. 
+		Pero los tantos llegaron demasiado tarde, en especial si se recuerdan las tres clarísimas ocasiones que los blancos desperdiciaron en el primer cuarto de hora y 
+		que pudieron haber definido un guión de partido totalmente distinto. Pero no; al final fue el mismo de los tres últimos años.</p></td>
+        <td rowspan= "3" id="publi"><a href="http://www.skype.com"> 
+  		<img src = "img/skype.jpg" alt = "Skype"/></a>
+	</td>
+      </tr>
+      <tr>
+         <td id="noticia2"><h4>La D&eacute;cima tendr&aacute; que esperar</h4>
+		<p>Dos goles de Benzema y Ramos en los últimos diez minutos dejaron al Madrid al borde la final de la Champions por tercer año consecutivo. 
+		Pero los tantos llegaron demasiado tarde, en especial si se recuerdan las tres clarísimas ocasiones que los blancos desperdiciaron en el primer cuarto de hora y 
+		que pudieron haber definido un guión de partido totalmente distinto. Pero no; al final fue el mismo de los tres últimos años.</p></td>
+         <td id="noticia3"><h4>La D&eacute;cima tendr&aacute; que esperar</h4>
+		<p>Dos goles de Benzema y Ramos en los últimos diez minutos dejaron al Madrid al borde la final de la Champions por tercer año consecutivo. 
+		Pero los tantos llegaron demasiado tarde, en especial si se recuerdan las tres clarísimas ocasiones que los blancos desperdiciaron en el primer cuarto de hora y 
+		que pudieron haber definido un guión de partido totalmente distinto. Pero no; al final fue el mismo de los tres últimos años.</p></td>
+      </tr>
+      <tr>
+         <td id="noticia4"><h4>La D&eacute;cima tendr&aacute; que esperar</h4>
+		<p>Dos goles de Benzema y Ramos en los últimos diez minutos dejaron al Madrid al borde la final de la Champions por tercer año consecutivo. 
+		Pero los tantos llegaron demasiado tarde, en especial si se recuerdan las tres clarísimas ocasiones que los blancos desperdiciaron en el primer cuarto de hora y 
+		que pudieron haber definido un guión de partido totalmente distinto. Pero no; al final fue el mismo de los tres últimos años.</p></td>
+         <td id="noticia5"><h4>La D&eacute;cima tendr&aacute; que esperar</h4>
+		<p>Dos goles de Benzema y Ramos en los últimos diez minutos dejaron al Madrid al borde la final de la Champions por tercer año consecutivo. 
+		Pero los tantos llegaron demasiado tarde, en especial si se recuerdan las tres clarísimas ocasiones que los blancos desperdiciaron en el primer cuarto de hora y 
+		que pudieron haber definido un guión de partido totalmente distinto. Pero no; al final fue el mismo de los tres últimos años.</p></td>
+      </tr>
+   </tbody>
+</table>
+
+<footer>
+	<p>Juan Antonio P&eacute;rez Maldonado </br>
+	618042606
+	<address>Circunvalaci&oacute;n Encina 23, 18015</address>
+	<a href="mailto:jpm88@correo.ugr.es">Correo de contacto</a>
+	<a href="formulario.html">&iexcl;Suscr&iacute;bete!</a>
+	<a href="documentacion.pdf">C&oacute;mo se hizo</a></p>
+</footer>
+</body>
+</html>

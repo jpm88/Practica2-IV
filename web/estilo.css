@@ -1,0 +1,152 @@
+body {
+	background:url("img/fondo.jpg");
+	background-repeat:repeat;
+	font-family:Arial;
+}
+
+#bannersuperior{
+margin-left:550px;
+}
+
+a:link {
+text-decoration:none; color: black;
+}
+a:visited {
+text-decoration:none; color: black;
+}
+a:active {
+text-decoration:none; color:#8A2BE2;
+}
+a:hover {
+text-decoration:none; color:#8A2BE2;
+}
+
+#bannerderecho{
+float:right;
+}
+
+
+#bannerizquierdo{
+float:left;
+}
+
+header{
+	text-align:center;
+}
+
+#titulo{
+	background-color:white;
+	font-size:500%;
+	font-family:fantasy;
+	text-decoration:underline;
+}
+
+#secciones{
+	font-size:200%;
+	font-family:fantasy;
+}
+
+#menu ul li {
+        display: inline;
+	text-decoration: none;
+}
+
+#menu li a{
+	font-family:Arial;
+	font-size:50px;
+	text-decoration: none;
+	padding: 10px;
+}
+
+#color1 {
+	background-color:#FFFF00;
+}
+
+#color2 {
+	background-color:#7FFFD4;
+}
+
+#color3 {
+	background-color:#FF6347;
+}
+
+#color4 {
+	background-color:#FF8C00;
+}
+
+#color5 {
+	background-color:#E9967A;
+}
+
+#color6 {
+	background-color:#ADFF2F;
+}
+
+#color2,#color3,#color4,#color5,#color6{
+	text-align:center;
+}
+
+#tabla{
+	text-align:justify;
+	background-color:white;
+	margin-left:auto; 
+	margin-right:auto;
+	padding-right:5%;
+	-moz-opacity: 0.95;
+	opacity: 0.95;
+	filter:alpha(opacity=95);
+}
+
+#nombreseccion{
+	font-size:170%;
+	padding-left:10%;
+	padding-right:10%;
+}
+
+#noticia1{
+	font-size:120%;
+	padding-left:10%;
+	padding-right:10%;
+}
+
+#ultimahora,#publi{
+	padding-left:8%;
+	padding-right:10%;
+}
+
+#noticia2,#noticia3,#noticia4,#noticia5,#comentario{
+	padding-left:2%;
+	padding-right:2%;
+}
+
+#imagen{
+	width:90%;
+	height:90%;
+}
+
+#pie{
+	font-size:70%;
+	font-style:italic;
+}
+
+#caja{
+	width:300px;
+	height:500px;
+	overflow:auto;
+	overflow-x:hidden;
+}
+
+#formulario{	
+	background-color:white;
+	text-align:center;
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+footer{
+	background-color:white;
+	text-align:center;
+	-moz-opacity: 0.95;
+	opacity: 0.95;
+	filter:alpha(opacity=95);
+}
