@@ -32,11 +32,11 @@ Ahora entramos a la jaula con el siguiente comando:
 
 > sudo chroot /home/jaulas/quantal
 
-![img1](https://dl-web.dropbox.com/get/IV/tema2/img1.jpg?w=AAAUihgCyy5nRL5eLM3omVRF0L9ZO5Rngbsh3PTmHYB44Q)
+![img1](https://raw.github.com/jpm88/Practica2-IV/master/img/img1.jpg)
 
 Si intentamos ejecutar top para comprobar que funciona correctamente, nos saldrá este mensaje:
 
-![img2](https://dl-web.dropbox.com/get/IV/tema2/img2.jpg?w=AADev0sHTxHf9SR_9tdqEiucmOAPCYCpKcMRdwXq8ndSPg)
+![img2](https://raw.github.com/jpm88/Practica2-IV/master/img/img2.jpg)
 
 Para arreglarlo tenemos que escribir el siguiente comando:
 
@@ -44,7 +44,7 @@ Para arreglarlo tenemos que escribir el siguiente comando:
 
 Entonces ya si ejecutamos top y como se muestra en la siguiente imagen funciona correctamente:
 
-![img3](https://dl-web.dropbox.com/get/IV/tema2/img3.jpg?w=AABPJEtrGbCuFZfnTfocPM3dyQPEUwpFbVo5GXZuVgfgKg)
+![img3](https://raw.github.com/jpm88/Practica2-IV/master/img/img3.jpg)
 
 Ahora instalamos el servidor apache con el siguiente comando:
 
@@ -68,11 +68,11 @@ Por último reiniciamos otra vez apache.
 
 En la siguiente imagen se muestra el paso de la copia de los archivos a /var/www y el reinicio de apache:
 
-![img4](https://dl-web.dropbox.com/get/IV/tema2/img4.jpg?w=AABddsHDZ5k4tt9cpTeJWl8U3Uj3pDn9lYh1qis7CEH_qw)
+![img4](https://raw.github.com/jpm88/Practica2-IV/master/img/img4.jpg)
 
 Una vez hecho todo esto escribimos en el navegador localhost y nos saldrá la aplicación web:
 
-![img5](https://dl-web.dropbox.com/get/IV/tema2/img5.jpg?w=AACTPhN2-j6e58GF3APnv67mnFyKIjQoQZwogMeSNcd1Jg)
+![img5](https://raw.github.com/jpm88/Practica2-IV/master/img/img5.jpg)
 
 ### Repositorio
 
